@@ -13,8 +13,6 @@ The GitHub Profile Finder App is a web application built using React and the Git
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
-
 - React: JavaScript library for building user interfaces.
 - GitHub API: Accesses GitHub data to retrieve user profiles and repository information.
 - React Router DOM: Enables navigation and routing within the app.
